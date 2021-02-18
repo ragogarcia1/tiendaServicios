@@ -44,3 +44,5 @@ C:\Users\garc800501\Documents\Projects\CSharp Net Core\Tienda de servicios\Tiend
 C:\Users\garc800501\Documents\Projects\CSharp Net Core\Tienda de servicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
 C:\Users\garc800501\Documents\Projects\CSharp Net Core\Tienda de servicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\garc800501\Documents\Projects\CSharp Net Core\Tienda de servicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Author.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\garc800501\Documents\Projects\CSharp Net Core\Tienda de servicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\garc800501\Documents\Projects\CSharp Net Core\Tienda de servicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
